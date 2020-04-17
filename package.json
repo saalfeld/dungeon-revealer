@@ -95,7 +95,7 @@
     "replacestream": "4.0.3",
     "showdown": "1.9.1",
     "socket.io-client": "2.2.0",
-    "ts-jest": "25.3.1",
+    "ts-jest": "25.4.0",
     "typescript": "3.8.3",
     "use-persisted-state": "0.3.0"
   },
